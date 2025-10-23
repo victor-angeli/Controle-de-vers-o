@@ -2,4 +2,4 @@
 repositorio para controle de versão 
 
 
-Primeira entry: 29/08
+Primeira entrada: 29/08
